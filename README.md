@@ -331,6 +331,8 @@ streamlit run app/streamlit_app.py
 
 ![alt text](screenshots/9.png)
 
+![alt text](screenshots/10.png)
+
 ---
 
 ## ⚙️ Configuration
