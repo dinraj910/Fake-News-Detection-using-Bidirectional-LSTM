@@ -1,0 +1,19 @@
+# Fake News Detection - Streamlit App Requirements
+
+# Web Framework
+streamlit>=1.28.0
+
+# Deep Learning
+tensorflow>=2.13.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Web Scraping
+newspaper3k>=0.2.8
+lxml>=4.9.0
+lxml_html_clean>=0.1.0
+
+# Utilities
+pickle5>=0.0.12; python_version < "3.8"
