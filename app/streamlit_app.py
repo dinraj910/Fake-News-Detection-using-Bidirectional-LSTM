@@ -49,7 +49,7 @@ st.set_page_config(
 # Paths to model files (relative to project root)
 PROJECT_ROOT = Path(__file__).parent.parent
 MODEL_PATH = PROJECT_ROOT / "model" / "fake_news_bilstm.h5"
-TOKENIZER_PATH = PROJECT_ROOT / "notebook" / "tokenizer.pkl"
+TOKENIZER_PATH = PROJECT_ROOT / "model" / "tokenizer.pkl"
 
 
 # =============================================================================
